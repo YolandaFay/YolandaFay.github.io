@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: I Am Hypatia
 header-img: img/home-bg.png
 email: yolandafay@gmail.com
 copyright_name: YolandaFay
 description: > # this means to ignore newlines until "baseurl:"
-  
+  For the Love of Literature, Mathematics, and Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  YolandaFay
