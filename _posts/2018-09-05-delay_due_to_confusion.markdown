@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Delay Due to Confusion"
+title:      "Delayed Function"
 date:       2018-09-05 00:15:54 -0400
 permalink:  delay_due_to_confusion
 ---
